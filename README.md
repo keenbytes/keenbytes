@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello, I'm Miko 👋
 
 I'm a Software and Infrastructure Engineer and my journey in the world of computing began in 1992, fostering a deep-seated enthusiasm for technology.  This extensive adventure has endowed me with a broad understanding of the multifaceted nature of IT systems development.  However, it's writing software that gives me the greatest joy.
 
