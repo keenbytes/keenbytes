@@ -7,4 +7,4 @@ My current endeavors include:
 - 🌱 Developing bespoke DevOps tools and Kubernetes utilities
 - 👯 Reviving cherished hobby projects
 
-My primary focus is Golang, though I’ve recently started exploring Rust and Ziglang. Additionally, my interests are expanding into the distributed domains of Web3 and artificial intelligence. I'm eager to collaborate on projects that foster innovation and push boundaries.
+My primary focus is Golang, though I’ve recently started exploring Rust and Ziglang. Additionally, my interests are expanding into the distributed domains of Web3 and artificial intelligence.
