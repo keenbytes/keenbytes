@@ -9,7 +9,7 @@ My current endeavors include:
 
 My primary focus is Golang, though I’ve recently started exploring Rust and Ziglang.
 
-You can find some of my projects in the following organizations I've created.
+You can find some of my projects in the following organizations:
 
-* [Go Phings](https://github.com/go-phings)
-* [CLI Games](https://github.com/cli-games)
+* [Go Phings](https://github.com/go-phings) - various things Go - useful libraries, code snippets, sample applications
+* [CLI Games](https://github.com/cli-games) - simple command-line games, written during having a coffee break or whilst teaching to code
