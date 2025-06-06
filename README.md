@@ -11,7 +11,7 @@ I'm an engineer with nearly **two decades** of hands-on experience in **computin
 
 ## 🛠️ My tech stack:
 
-- **💻 Development**: Golang, Rust, ZigLang
+- **💻 Development**: Golang
 - **☁️  Cloud**: AWS
 - **📈 Observability**: LGTM (Loki, Grafana, Tempo, Mimir)
 - **⚙️  Infrastructure**: Kubernetes, Terraform, Terragrunt, Terratest, GitOps (ArgoCD, Flux)
